@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "Mobile": "Samsung S23 Plus",
+      "Price": "95999",
+      "RAM": "12GB",
+      "Storage": "256GB",
+      "id": "156a"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": null
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": null
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
